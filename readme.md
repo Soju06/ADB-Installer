@@ -4,7 +4,7 @@ ADB 인스톨러
 
 ## Download
 
-[여기](https://github.com/Soju06/ADB-Installer/releases/v1.2.0/ADB-Installer.exe) 에서 ADBInstaller v1.2.0을 다운받을 수 있습니다.
+[여기](https://github.com/Soju06/ADB-Installer/releases/download/v1.2.0/ADB-Installer.exe) 에서 ADBInstaller v1.2.0을 다운받을 수 있습니다.
 
 ## Screenshots
 
