@@ -2,9 +2,11 @@
 
 ADB 인스톨러
 
+무우려 자동으로 환경 변수에 등록하여 설치 후 즉시 명령줄에 adb 또는 scrcpy를 사용할 수 있습니다.
+
 ## Download
 
-[여기](https://github.com/Soju06/ADB-Installer/releases/v1.2.0/ADB-Installer.exe) 에서 ADBInstaller v1.2.0을 다운받을 수 있습니다.
+[여기](https://github.com/Soju06/ADB-Installer/releases/download/v1.2.0/ADB-Installer.exe) 에서 ADBInstaller v1.2.0을 다운받을 수 있습니다.
 
 ## Screenshots
 
